@@ -36,4 +36,4 @@ Bilgisayar biliminde, farklı konular üzerine hazırlamakta olduğumuz teknik y
 |[Yunus Deveci](-)| - |
 
 ### Nasıl Katılabilirim?
-Bu Repository'e PR isteği açabilir veya alameddinc@gmail.com mail adresine isminizi, yazı ve videolarınızı link olarak ekleyebilirsiniz.
+Yazınızın en altına veya videonuzun açıklamasına bu adresi ekledikten sonra, Bu Repository'e PR isteği açabilir veya alameddinc@gmail.com mail adresine isminizi, yazı ve videolarınızı link olarak ekleyebilirsiniz.
