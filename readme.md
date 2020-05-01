@@ -1,11 +1,12 @@
+
+
 # Atolye Makale
 ### Açıklama
 Bilgisayar biliminde, farklı konular üzerine hazırlamakta olduğumuz teknik yazıları sunacağımız açık kaynaklı bilgi paylaşım alanıdır.
 
+## Teknik Yazılar
 
-## Makaleler
-
-#### 2020 Öncesi Makaleler
+#### 2020 Öncesi Yazılar & Videolar
 - [Genetik Algoritma #1](https://medium.com/@AlameddinC/genetik-algoritma-1-fbbc2c4d001d)
 - [Javascript ile Genetik Algoritma #2](https://medium.com/@AlameddinC/javascript-ile-genetik-algoritma-2-5aa0d1ffaf31)
 - [GraphQL #1 Nedir? Nerede Kullanılır?](https://medium.com/@AlameddinC/graphql-1-nedir-nerede-kullan%C4%B1l%C4%B1r-af781d617a00)
@@ -14,10 +15,16 @@ Bilgisayar biliminde, farklı konular üzerine hazırlamakta olduğumuz teknik y
 - [Git Nedir? Neden Kullanılır? Şimdi Kullanacak olsam nasıl başlayacam?](https://medium.com/@AlameddinC/git-nedir-neden-kullan%C4%B1l%C4%B1r-%C5%9Fimdi-kullanacak-olsam-nas%C4%B1l-ba%C5%9Flayacam-9c104df858c3)
 - [Internet’te nasıl haberleşiyoruz.](https://medium.com/@AlameddinC/internette-nas%C4%B1l-haberle%C5%9Fiyoruz-f8d63b20e9e1)
 
-#### Gelecek Makaleler (Mayıs 2020)
+
+#### Gelecek Yazılar & Videolar (Mayıs 2020)
 - [Single Sign-On (SSO) Nedir?](-)
 - [Yapay Bağışıklık Sistemi Algoritması](-)
 - [Deep Learning](-)
+
+
+
+
+
 
 ### Destekçilerimiz
 |Kim| Makale Sayısı |
@@ -27,3 +34,6 @@ Bilgisayar biliminde, farklı konular üzerine hazırlamakta olduğumuz teknik y
 |[Cihan Bayoğlu](-)| - |
 |[Seyfullah Örnek](-)| - |
 |[Yunus Deveci](-)| - |
+
+### Nasıl Katılabilirim?
+Bu Repository'e PR isteği açabilir veya alameddinc@gmail.com mail adresine isminizi, yazı ve videolarınızı link olarak ekleyebilirsiniz.
