@@ -15,9 +15,9 @@ Bilgisayar biliminde, farklı konular üzerine hazırlamakta olduğumuz teknik y
 - [Internet’te nasıl haberleşiyoruz.](https://medium.com/@AlameddinC/internette-nas%C4%B1l-haberle%C5%9Fiyoruz-f8d63b20e9e1)
 
 ### Destekçilerimiz
-|Kim| Makale Sayısı |
-|--|--|--|
-|[Alameddin Çelik](-)|6 yayında / 2 Bekleyen|
+|Kim|Makale Sayısı|
+|--|--|
+|[Alameddin Çelik](-)|6|
 |[Alper Okutan](-) | - |
 |[Cihan Bayoğlu](-)| - |
 |[Seyfullah Örnek](-)| - |
